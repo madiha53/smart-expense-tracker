@@ -5,7 +5,7 @@ A full-stack expense tracking application built using **Cloudflare Workers**, **
 ---
 
 ## 🚀 Live Demo
-🔗(https://smart-expense-tracker.shankrammalingadahalli.workers.dev/login)
+🔗https://smart-expense-tracker.madduanjum53.workers.dev
 ---
 
 ## 📌 Features
@@ -58,3 +58,4 @@ CREATE TABLE expenses (
   status TEXT DEFAULT 'ACTIVE',
   created_at TEXT DEFAULT CURRENT_TIMESTAMP
 );
+
